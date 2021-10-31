@@ -39,7 +39,7 @@ Product.init(
       type: DataTypes.INTEGER,
       // references = foreign key
       references: {
-        model: 'Category',
+        model: 'category',
         key: 'id',
       }
     }

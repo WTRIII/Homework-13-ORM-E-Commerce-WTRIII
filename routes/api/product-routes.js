@@ -23,7 +23,7 @@ router.get('/:id',async (req, res) => {
   // be sure to include its associated Category and Tag data
 
   try {
-    const productData = await Category.findByPk(req.params.id, {
+    const productData = await Product.findByPk(req.params.id, {
       include: [{ model: Category, Tag, ProductTag }]
     });
 
@@ -40,7 +40,7 @@ router.get('/:id',async (req, res) => {
 });
 
 // create new product
-// PUT AND POST ROUTES COMPLETE, DONT MESS WITH THEM
+// PUT AND POST ROUTES STARTER CODE, DONT MESS WITH THEM
 router.post('/', (req, res) => {
   /* req.body should look like this...
     {
