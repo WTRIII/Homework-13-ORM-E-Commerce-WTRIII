@@ -1,5 +1,22 @@
 # Homework-13-ORM-E-Commerce-WTRIII
 
+## Summary
+Client requested assistance with implementing modern best practices for an E-Commerce site to include: use of sequelize, scripts, JSON, and API routing.
+
+Features impletented include:
+- updated models with data based on user story
+- script to seed database
+- use of sequelize to initiate and run server
+- get, post, put, and delete routes established
+- JSON formatting for all routes
+
+## Demo Video Link:
+
+
+----------------------
+# Original User Story and Technical Criteria to Follow:
+----------------------
+
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Your Task
@@ -43,7 +60,6 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 // create post, put, delete
 
-// need to mess with routes, models only
 ```
 
 ## Mock-Up
