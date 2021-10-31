@@ -11,12 +11,14 @@ Features impletented include:
 - JSON formatting for all routes
 
 ## Demo Video Link:
-
+https://watch.screencastify.com/v/tAbVTpUFjHsVW2ovjlfW
 
 ### Help Received from:
 Damien Luzzo
 Ethan Cho
 - mainly where to reference in the activities and mini-projects as well as proofreading my code for syntax/formatting
+Mitchell Robbins
+- assisted with troubleshooting route errors when using Insomnia. AskBCS provided a resolution.
 
 ----------------------
 # Original User Story and Technical Criteria to Follow:
