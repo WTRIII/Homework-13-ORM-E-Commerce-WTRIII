@@ -40,7 +40,7 @@ router.get('/:id',async (req, res) => {
 });
 
 // create new product
-// PUT AND POST ROUTES STARTER CODE, DONT MESS WITH THEM
+// PUT AND POST ROUTES = STARTER CODE - DONT MESS WITH THEM
 router.post('/', (req, res) => {
   /* req.body should look like this...
     {
@@ -48,7 +48,8 @@ router.post('/', (req, res) => {
       price: 200.00,
       stock: 3,
       tagIds: [1, 2, 3, 4] 
-    }*/
+    }
+    */
   
   Product.create(req.body)
     .then((product) => {

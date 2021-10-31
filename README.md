@@ -13,6 +13,11 @@ Features impletented include:
 ## Demo Video Link:
 
 
+### Help Received from:
+Damien Luzzo
+Ethan Cho
+- mainly where to reference in the activities and mini-projects as well as proofreading my code for syntax/formatting
+
 ----------------------
 # Original User Story and Technical Criteria to Follow:
 ----------------------
